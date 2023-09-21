@@ -17,9 +17,9 @@
 <br>
 About Me:
 
-- 🔭 I’m currently working on BaranIdea
-- 🌱 I’m currently learning React and Deep in Javascript
-- ⚡ Fun fact: Book, Film, Snooker
+- 🔭 I’m currently working on Digipay (Digikala Group).
+- 🌱 I’m currently learning React and Deep in Javascript.
+- ⚡ Fun fact: Book, Film, Snooker.
 
 
 My Status:
